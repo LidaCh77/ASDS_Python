@@ -1,0 +1,5 @@
+text = input()
+output = input()
+
+
+
